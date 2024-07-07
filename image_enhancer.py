@@ -66,7 +66,7 @@ def process_image():
 
 # GUI 
 root = tk.Tk()
-root.title("Image Enhancement")
+root.title("Image Enhancer")
 
 tk.Label(root, text="Input Image Path:").grid(row=0, column=0, padx=10, pady=5)
 input_path_var = tk.StringVar()
