@@ -1,6 +1,6 @@
 # ImageTextEnhancer-GUI
 
-A simple GUI application for enhancing text quality in images using the EDSR model with OpenCV and Tkinter.
+A simple GUI application for enhancing quality in images using the EDSR model with OpenCV and Tkinter.
 
 ## Features
 
