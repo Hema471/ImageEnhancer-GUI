@@ -1,4 +1,4 @@
-# ImageEnhancer-GUI
+# Image Enhancer with Simple GUI
 
 A simple GUI application for enhancing quality in images using the EDSR model with OpenCV and Tkinter.
 
